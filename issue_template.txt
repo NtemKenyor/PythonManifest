@@ -1,0 +1,23 @@
+### Follow the Instructions for Creating and Submitting Videos
+
+You can create a **screen recording** or **animation** based on the content of the script. If your animation is designed for children, please add the **"for kids"** label to your pull request.
+
+If you would like to create your own script's content relative to the topic, feel free to do so. However, please **choose your words carefully** to avoid any inappropriate language or abuse. We highly recommend you review our [Video Creation Guidelines](https://ionian-petunia-5bc.notion.site/Video-Guidelines-for-PythonVids-Broken-English-and-Locals-106c7092d20380a898e5c2681b37cd84?pvs=4) before starting.
+
+Any video, audio or script you create, should have a unique name to avoid any form of conflicts. You can add your name or a unique set of numbers or hash to your video. For instance **"introduction_to_python_by_jacob"**. Make sure your video is visually clear and has good sound quality, so people can easily understand and enjoy it.
+
+### How to Submit Your Video
+
+After creating your video, you'll need to **submit it via a pull request**. Follow this [YouTube guide on making a pull request](https://youtu.be/780r81dI730) to ensure your submission is correct.
+
+### After Submission
+
+Once your video is merged (added to the project), please check our social media platforms to ensure it has been posted. If you notice that your video has not been posted after merging, **add a "not posted" label** to your open/closed pull request.
+
+### Our Social Media Links:
+
+- **YouTube**: [https://youtube.com/@pythoneducationalvid?si=kKWDvbzPu1Gajo6o](https://youtube.com/@pythoneducationalvid?si=kKWDvbzPu1Gajo6o)
+- **GitHub**: [https://github.com/PythonEducationVid](https://github.com/PythonEducationVid)
+- **TikTok**: [https://www.tiktok.com/@python.education?_t=8pqhBAobvLK&_r=1](https://www.tiktok.com/@python.education?_t=8pqhBAobvLK&_r=1)
+- **X (formerly Twitter)**: [https://x.com/PythonVid?t=PMyQBP2dFmr7EoJBcrEg4w&s=09](https://x.com/PythonVid?t=PMyQBP2dFmr7EoJBcrEg4w&s=09)
+- **Telegram**: [https://t.me/PythonEducationVid](https://t.me/PythonEducationVid)
