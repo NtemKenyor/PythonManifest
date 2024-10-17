@@ -2,6 +2,8 @@
 
 You can create a **screen recording** or **animation** based on the content of the script. If your animation is designed for children, please add the **"for kids"** label to your pull request.
 
+You do not need to be extremely efficient in speaking English, In fact, we need more Broken English Programming videos or native Videos(So be free to use broken English or your native language).
+
 If you would like to create your own script's content relative to the topic, feel free to do so. However, please **choose your words carefully** to avoid any inappropriate language or abuse. We highly recommend you review our [Video Creation Guidelines](https://ionian-petunia-5bc.notion.site/Video-Guidelines-for-PythonVids-Broken-English-and-Locals-106c7092d20380a898e5c2681b37cd84?pvs=4) before starting.
 
 Any video, audio or script you create, should have a unique name to avoid any form of conflicts. You can add your name or a unique set of numbers or hash to your video. For instance **"introduction_to_python_by_jacob"**. Make sure your video is visually clear and has good sound quality, so people can easily understand and enjoy it.

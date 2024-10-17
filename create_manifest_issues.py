@@ -98,7 +98,7 @@ def create_github_issue(script_url, issue_number):
         script_name = [z for z in script_url.split("/") if ".md" in z]
         print(script_name)
         # Prepare the issue body and title
-        issue_title = f"Create a Python video using this script #{issue_number if len(script_name) == 0 else script_name[0]}"
+        issue_title = f"Create a Python video from the script #{issue_number if len(script_name) == 0 else script_name[0]}"
         issue_body = f"Check out this Python script and create a short video explaining how it works:\n\n{script_url}\n\n" + issue_body_template
         labels = ["good first issue", "first-timers-only", "auto-review","no-code", "easy", "GSOC", "hacktoberfest", "GSOC-2024"]
         random.shuffle(labels)
@@ -133,6 +133,7 @@ def main():
 
     # Step 2: Read last issue number
     last_posted_issue = read_last_issue_number()
+    last_posted_issue = 0 if last_posted_issue >= len(script_urls) else last_posted_issue
 
     # Step 3: Process next script URL
     script_url = script_urls[last_posted_issue % len(script_urls)]
